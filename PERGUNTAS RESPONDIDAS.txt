@@ -1,0 +1,39 @@
+1. Qual é o foco do backend?
+O backend é a parte do desenvolvimento de software responsável pelo processamento de dados, lógica de negócios e interação com o banco de dados. Ele lida com o que acontece "por trás das cortinas" de uma aplicação, ou seja, gerencia a comunicação com servidores, autenticação de usuários, processamento de requisições e manipulação de dados para entregar o que o frontend precisa.
+
+2. Quais são as principais tecnologias utilizadas nesse lado do desenvolvimento web?
+
+Linguagens de programação: JavaScript (Node.js), Python, Ruby, Java, PHP, C#, Go, entre outras.
+Frameworks: Express.js, Django, Flask, Ruby on Rails, Spring, Laravel.
+Banco de Dados: MySQL, PostgreSQL, MongoDB, Redis, Firebase.
+APIs: REST, GraphQL.
+Ferramentas de Versionamento: Git (GitHub, GitLab, Bitbucket).
+Autenticação: OAuth, JWT (JSON Web Token).
+Serviços de Cloud: AWS, Google Cloud, Azure.
+
+3. O que são frameworks?
+Frameworks são conjuntos de ferramentas e bibliotecas que facilitam e agilizam o desenvolvimento de software. Eles fornecem estruturas prontas, como convenções de código, padrões de arquitetura e componentes reutilizáveis, para que os desenvolvedores não precisem reinventar a roda em cada projeto. No caso do backend, frameworks como Express para Node.js ou Django para Python são usados para gerenciar rotas, requisições HTTP, segurança e outras funcionalidades.
+
+4. O que liga o backend com o frontend?
+O backend e o frontend são conectados principalmente por meio de APIs (Interfaces de Programação de Aplicações). O backend envia dados para o frontend (geralmente em formato JSON ou XML) através de requisições HTTP (ou outras tecnologias de comunicação, como WebSockets), e o frontend usa esses dados para exibir informações na interface do usuário. A comunicação entre as camadas é feita por meio de métodos HTTP como GET, POST, PUT, DELETE, etc.
+
+5. Quais são os métodos HTTP e o que fazem?
+Os métodos HTTP são comandos usados para definir a ação a ser realizada em uma requisição entre cliente e servidor. Os principais métodos são:
+
+GET: Solicita dados do servidor (sem alterar nada no servidor).
+POST: Envia dados para o servidor, geralmente para criar ou atualizar algo.
+PUT: Atualiza dados existentes no servidor.
+DELETE: Remove dados do servidor.
+PATCH: Atualiza parcialmente os dados de um recurso no servidor.
+HEAD: Semelhante ao GET, mas apenas retorna os cabeçalhos da resposta, não o corpo.
+
+6. O que é o Postman?
+O Postman é uma ferramenta usada para testar APIs. Ele permite que você faça requisições HTTP de diferentes tipos (GET, POST, PUT, DELETE), visualize as respostas e depure erros nas APIs. É bastante utilizado durante o desenvolvimento para testar e garantir que a comunicação entre frontend e backend esteja funcionando corretamente.
+
+7. O que é o Express?
+Express.js é um framework para Node.js que facilita a criação de servidores web e APIs. Ele fornece um conjunto de funcionalidades prontas, como gerenciamento de rotas, middleware para tratamento de requisições, manipulação de cookies, autenticação, entre outras. É uma das bibliotecas mais populares para desenvolvimento backend em JavaScript.
+
+8. Porque você se interessou para essa vaga (de desenvolvedor Back end)?
+
+"Eu me interesso pela vaga de desenvolvedor backend porque gosto de trabalhar com a lógica por trás das aplicações, entender como os sistemas interagem e se comunicam entre si. Tenho interesse em construir soluções escaláveis e eficientes, além de aprimorar minhas habilidades em trabalhar com bancos de dados, APIs e frameworks como o Express. A ideia de lidar com desafios técnicos e criar a espinha dorsal de sistemas me motiva a buscar constantemente novos aprendizados."
+
